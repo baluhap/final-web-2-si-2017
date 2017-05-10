@@ -1,0 +1,15 @@
+body{
+  font-family:Rancho;
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+  background-position:center;
+}
+button{
+  margin: 1%;
+}
+#input{
+  width:70%;
+}
+li{
+  background-color:#ffffff;
+}

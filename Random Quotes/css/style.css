@@ -1,0 +1,45 @@
+body{
+  background-color:black;
+}
+h1{
+  font-family:Country;
+  margin-bottom:50px;
+  margin-top:70px;
+}
+.quotes{
+  font-family:courier;
+  font-size:20px;
+  color:white;
+  width:40%;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:20px;
+  border-style:solid;
+  border-color:white;
+  border-radius:5px;
+  padding:10px;
+  height:auto;
+}
+#author{
+  font-size:12px;
+  font-family:Courier;
+  font-style:italic;
+  text-align:right;
+}
+#getQuote{
+  float:left;
+  background-color:white;
+  color:black;
+  border:none;
+  font-family:Country;
+}
+#tweet{
+  float:right;
+  background-color:white;
+  color:black;
+  border:none;
+  font-family:Country;
+}
+.footer{
+  font-family:Country;
+}
